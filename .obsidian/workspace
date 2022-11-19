@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7cdaa4410de3d9e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ca2a75511856d1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gods/Tiamat.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6d9b137135b34ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "e41b62298d408c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c20dee9c3a0892a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a0c76b1970a94a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#the-party",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78bed6ec000dc7d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb4384f59656442a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4beca6beda90717a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gods/Tiamat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "97ca2a75511856d1",
+  "lastOpenFiles": [
+    "Gods/Tiamat.md",
+    "Photos/Melian_card.jpg",
+    "Characters/Party/Elva.md",
+    "Characters/Party/Idris.md",
+    "Characters/Party/Melian.md",
+    "Characters/Party/Monikin.md",
+    "Characters/Party/Undella.md",
+    "Places/Raiders Camp.md",
+    "Characters/Cult of the Que.md",
+    "Places/Greenest.md"
+  ]
+}
