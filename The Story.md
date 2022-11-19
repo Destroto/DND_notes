@@ -1,7 +1,7 @@
 These are the escapades of Idris, as chronicled by the fabeld adventurer.
 Published by: [[Idris]]
 
-After yet another night of swindling drunkards and salors alike in the land locked lumbering village of [[Vaalinkas]], unknowingly the mighty [[Idris]] was about to have a chance encounter that would forever change his life. One simple title, [[The Party]].
+After yet another night of swindling drunkards and salors alike in the land locked lumbering village of Vaalinkas, unknowingly the mighty [[Idris]] was about to have a chance encounter that would forever change his life. One simple title, [[The Party]].
 
 
 

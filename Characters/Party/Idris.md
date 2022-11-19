@@ -2,6 +2,7 @@ Name: Idris
 Race: Lightfoot Halfling
 Class: Rouge
 Languages: Common, Halfling, Theives' Cant
+#the-party
 
 ![[Idris_card.jpg]]
 

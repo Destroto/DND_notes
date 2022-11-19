@@ -2,6 +2,7 @@ Name: Monikin
 Race: High Elf
 Class: Ranger
 Languages: Common, Druidic
+#the-party
 
 ![[Monikin_card.jpg]]
 

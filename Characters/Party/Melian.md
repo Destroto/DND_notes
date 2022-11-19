@@ -2,6 +2,7 @@ Name: Melian
 Race: Half Elf
 Class: Paladin
 Languages: 
+#the-party
 
 ![[Melian_card.jpg]]
 

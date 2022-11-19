@@ -5,18 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#cult",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#old",
+      "color": {
+        "a": 1,
+        "rgb": 1842204
+      }
+    },
+    {
+      "query": "tag:#the-party",
+      "color": {
+        "a": 1,
+        "rgb": 6938706
+      }
+    },
+    {
+      "query": "tag:friendly",
+      "color": {
+        "a": 1,
+        "rgb": 5431497
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.02136752136752,
-  "lineSizeMultiplier": 5,
+  "nodeSizeMultiplier": 0.560683760683761,
+  "lineSizeMultiplier": 1.31452991452991,
   "collapse-forces": false,
-  "centerStrength": 0.17948717948718,
-  "repelStrength": 5.2991452991453,
+  "centerStrength": 0.452991452991453,
+  "repelStrength": 1.70940170940171,
   "linkStrength": 1,
-  "linkDistance": 138,
-  "scale": 1,
+  "linkDistance": 74,
+  "scale": 1.0000000000000027,
   "close": true
 }

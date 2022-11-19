@@ -2,6 +2,7 @@ Name: Elva
 Race: Elf
 Class: Bard
 Languages: 
+#the-party
 
 ![[Elva_card.jpg]]
 
